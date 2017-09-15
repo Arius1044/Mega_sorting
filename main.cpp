@@ -83,7 +83,7 @@ int main()
 			}
 			cout << "\n\n\n\n\n";
 
-		} while (menu != 7);
+		} while (menu != 6);
 	} while (true);
 
 	system("pause");
